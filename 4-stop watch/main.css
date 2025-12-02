@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background: #000;
+}
+h1{
+    text-align: center;
+    color: #eee;
+
+}
+h3{
+    text-align: center;
+        color: #eee;
+}
+button{
+    width: 100%;
+    margin: auto;
+}
+footer{
+    color: azure;
+    text-align: center;
+    margin-top: 50px;
+}
+i{
+    margin-left: 10px;
+}
+footer:hover{
+    cursor: pointer;
+    color: red;
+  
+   
+}
